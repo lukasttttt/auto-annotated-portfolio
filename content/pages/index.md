@@ -47,7 +47,7 @@ sections:
         label: Porfolio
         altText: ''
         url: 'https://www.behance.net/lukastuhec'
-        showIcon: false
+        showIcon: true
         icon: apple
         iconPosition: right
         elementId: ''
