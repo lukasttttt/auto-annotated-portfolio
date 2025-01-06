@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: I make ideas HAPPEN.
+    title: I make ideas happen.
     subtitle: 'See some of my work below:'
     styles:
       self:
@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Link
-        label: multimedia Porfolio
+        label: multimedia Porftolio
         altText: ''
         url: 'https://www.behance.net/lukastuhec'
         showIcon: true
