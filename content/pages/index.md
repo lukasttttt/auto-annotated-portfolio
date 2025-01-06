@@ -56,4 +56,12 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /abc
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
 ---
