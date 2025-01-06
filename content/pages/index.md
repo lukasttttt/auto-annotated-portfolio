@@ -42,7 +42,6 @@ sections:
       subtitle:
         textAlign: left
         fontStyle: italic
-        textDecoration: underline
       text:
         textAlign: left
       actions:
