@@ -14,7 +14,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: I make ideas HAPPEN.
-    subtitle: ''
+    subtitle: 'See some of my work below:'
     styles:
       self:
         height: auto
