@@ -44,7 +44,7 @@ sections:
     type: HeroSection
     actions:
       - type: Link
-        label: Learn more
+        label: Behance
         altText: ''
         url: /abc
         showIcon: false
