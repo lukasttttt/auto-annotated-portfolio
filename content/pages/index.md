@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: "\U0001F44BI make ideas happen."
+    title: I make ideas happen.
     subtitle: 'See some of my work below:'
     styles:
       self:
