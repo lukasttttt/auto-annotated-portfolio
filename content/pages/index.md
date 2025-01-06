@@ -46,7 +46,7 @@ sections:
       - type: Link
         label: Behance
         altText: ''
-        url: /abc
+        url: 'https://www.behance.net/lukastuhec'
         showIcon: false
         icon: arrowRight
         iconPosition: right
