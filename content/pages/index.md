@@ -44,7 +44,7 @@ sections:
     type: HeroSection
     actions:
       - type: Link
-        label: Porfolio
+        label: multimedia Porfolio
         altText: ''
         url: 'https://www.behance.net/lukastuhec'
         showIcon: true
