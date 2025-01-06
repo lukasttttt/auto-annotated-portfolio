@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: >-
-      I’m a digital artist, Entrepreneur, and a bunch of other impressive titles
-      and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: I make ideas HAPPEN.
+    subtitle: 'See some of my work below:'
     styles:
       self:
         height: auto
@@ -49,19 +44,19 @@ sections:
     type: HeroSection
     actions:
       - type: Link
-        label: Learn more
+        label: Porfolio
         altText: ''
-        url: /abc
-        showIcon: false
-        icon: arrowRight
+        url: 'https://www.behance.net/lukastuhec'
+        showIcon: true
+        icon: arrowUpRight
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Foto oko
         altText: ''
-        url: /abc
-        showIcon: false
-        icon: arrowRight
+        url: 'https://www.fotooko.si'
+        showIcon: true
+        icon: arrowUpRight
         iconPosition: right
         elementId: ''
 ---
