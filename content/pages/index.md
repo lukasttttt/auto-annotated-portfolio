@@ -56,7 +56,7 @@ sections:
         altText: ''
         url: 'https://www.fotooko.si'
         showIcon: false
-        icon: arrowRight
+        icon: arrowUpRight
         iconPosition: right
         elementId: ''
 ---
