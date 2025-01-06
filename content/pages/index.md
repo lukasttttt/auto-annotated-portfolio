@@ -54,7 +54,7 @@ sections:
       - type: Link
         label: Foto oko
         altText: ''
-        url: /abc
+        url: 'https://www.fotooko.si'
         showIcon: false
         icon: arrowRight
         iconPosition: right
