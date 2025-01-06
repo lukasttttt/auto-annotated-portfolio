@@ -48,7 +48,7 @@ sections:
         altText: ''
         url: 'https://www.behance.net/lukastuhec'
         showIcon: true
-        icon: arrowRight
+        icon: arrowUpRight
         iconPosition: right
         elementId: ''
       - type: Link
