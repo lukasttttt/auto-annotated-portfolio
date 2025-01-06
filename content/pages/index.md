@@ -58,14 +58,4 @@ sections:
         icon: arrowUpRight
         iconPosition: right
         elementId: ''
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://youtu.be/BD-YliszGkA'
-      elementId: ''
-      autoplay: true
-      loop: true
-      muted: false
-      controls: false
-      aspectRatio: '16:9'
 ---
