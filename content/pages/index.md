@@ -55,7 +55,7 @@ sections:
         label: Foto oko
         altText: ''
         url: 'https://www.fotooko.si'
-        showIcon: false
+        showIcon: true
         icon: arrowUpRight
         iconPosition: right
         elementId: ''
